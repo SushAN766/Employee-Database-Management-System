@@ -2,6 +2,22 @@
 
 The **Employee Database Management System** is a Java-based application designed to efficiently manage employee records. It supports key operations like adding, updating, deleting, and retrieving employee information. The system integrates with a MySQL database for storing data, and the user interface is built using **Swing**.
 
+## 🖼️ Screenshots 
+
+### Dashboard & Add Employee | Update & Delete Employee
+
+<table>
+  <tr>
+    <td><img src="assets/screenshots/homepage.png" alt="Dashboard" width="300"/></td>
+    <td><img src="assets/screenshots/add_employee.png" alt="Add Employee" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/update_employee.png" alt="Update Employee" width="300"/></td>
+    <td><img src="assets/screenshots/delete_employee.png" alt="Delete Employee" width="300"/></td>
+  </tr>
+</table>
+
+
 ## 🚀 Key Features  
 - **Add Employees**: Store employee details such as Name, Employee ID, Department, and Salary.
 - **Update Records**: Modify existing employee data when needed.
