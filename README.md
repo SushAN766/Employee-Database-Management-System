@@ -3,10 +3,23 @@
 The **Employee Database Management System** is a Java-based application designed to efficiently manage employee records. It supports key operations like adding, updating, deleting, and retrieving employee information. The system integrates with a MySQL database for storing data, and the user interface is built using **Swing**.
 
 ## 🖼️ Screenshots 
+<table>
+  <h3>
+    Login & Dashboard 
+  </h3>
+  ## 🖼️ Screenshots Collage (1 × 2)
 
+
+  <tr>
+    <td><img src="assets/screenshots/loginpage.png" alt="Login" width="350"/></td>
+    <td><img src="assets/screenshots/homepage.png" alt="Dashboard" width="350"/></td>
+  </tr>
+
+
+</table>
 
 <table>
-  <h1> Add & View Employee | Update & Delete Employee </h1>
+  <h3> Add & View Employee | Update & Delete Employee </h3>
   <tr>
     <td><img src="assets/screenshots/add_employee.png" alt="Add Employee" width="280"/></td>
     <td><img src="assets/screenshots/update_employee.png" alt="Update Employee" width="280"/></td>
@@ -16,7 +29,7 @@ The **Employee Database Management System** is a Java-based application designed
 </table>
 
 <table>
-  <h1> Add & View Department | Update & Delete Department </h1>
+  <h3> Add & View Department | Update & Delete Department </h3>
   <tr>
     <td><img src="assets/screenshots/add_department.png" alt="Add Department" width="280"/></td>
     <td><img src="assets/screenshots/update_department.png" alt="Update Department" width="280"/></td>
