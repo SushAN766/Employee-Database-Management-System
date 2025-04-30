@@ -72,7 +72,6 @@ Follow these steps to get the project up and running:
    git clone https://github.com/your-username/Employee-Database-Management-System.git
 
 2. **Database Configuration**
-
    In your project, update the database connection URL, username, and password:
    ```bash
    String url = "jdbc:mysql://localhost:3306/employee_db";  
