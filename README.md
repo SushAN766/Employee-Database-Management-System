@@ -8,12 +8,11 @@ The **Employee Database Management System** is a Java-based application designed
 
 <table>
   <tr>
-    <td><img src="assets/screenshots/homepage.png" alt="Dashboard" width="300"/></td>
-    <td><img src="assets/screenshots/add_employee.png" alt="Add Employee" width="300"/></td>
+    <td><img src="assets/screenshots/loginpage.png" alt="LoginPage" width="300"/></td>
+    <td><img src="assets/screenshots/homepage.png" alt="HomePage" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="assets/screenshots/update_employee.png" alt="Update Employee" width="300"/></td>
-    <td><img src="assets/screenshots/delete_employee.png" alt="Delete Employee" width="300"/></td>
+   
   </tr>
 </table>
 
