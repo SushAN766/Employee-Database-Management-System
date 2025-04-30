@@ -4,21 +4,17 @@ The **Employee Database Management System** is a Java-based application designed
 
 ## 🖼️ Screenshots 
 
-### Dashboard & Add Employee | Update & Delete Employee
-
-
-## 🖼️ Screenshots Collage (2 × 5)
 
 <table>
+  <h1> Add & View Employee | Update & Delete Employee </h1>
   <tr>
-    <td><img src="assets/screenshots/homepage.png" alt="Homepage" width="220"/></td>
-    <td><img src="assets/screenshots/loginpage.png" alt="Login Page" width="220"/></td>
     <td><img src="assets/screenshots/add_employee.png" alt="Add Employee" width="220"/></td>
     <td><img src="assets/screenshots/update_employee.png" alt="Update Employee" width="220"/></td>
     <td><img src="assets/screenshots/view_employee.png" alt="View Employee" width="220"/></td>
-  </tr>
-  <tr>
     <td><img src="assets/screenshots/delete_employee.png" alt="Delete Employee" width="220"/></td>
+  </tr>
+  <h1> Add & View Department | Update & Delete Department </h1>
+  <tr>
     <td><img src="assets/screenshots/add_department.png" alt="Add Department" width="220"/></td>
     <td><img src="assets/screenshots/update_department.png" alt="Update Department" width="220"/></td>
     <td><img src="assets/screenshots/view_department.png" alt="View Department" width="220"/></td>
