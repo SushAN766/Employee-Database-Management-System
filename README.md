@@ -6,15 +6,27 @@ The **Employee Database Management System** is a Java-based application designed
 
 ### Dashboard & Add Employee | Update & Delete Employee
 
+
+## 🖼️ Screenshots Collage (2 × 5)
+
 <table>
   <tr>
-    <td><img src="assets/screenshots/loginpage.png" alt="LoginPage" width="300"/></td>
-    <td><img src="assets/screenshots/homepage.png" alt="HomePage" width="300"/></td>
+    <td><img src="assets/screenshots/homepage.png" alt="Homepage" width="220"/></td>
+    <td><img src="assets/screenshots/loginpage.png" alt="Login Page" width="220"/></td>
+    <td><img src="assets/screenshots/add_employee.png" alt="Add Employee" width="220"/></td>
+    <td><img src="assets/screenshots/update_employee.png" alt="Update Employee" width="220"/></td>
+    <td><img src="assets/screenshots/view_employee.png" alt="View Employee" width="220"/></td>
   </tr>
   <tr>
-   
+    <td><img src="assets/screenshots/delete_employee.png" alt="Delete Employee" width="220"/></td>
+    <td><img src="assets/screenshots/add_department.png" alt="Add Department" width="220"/></td>
+    <td><img src="assets/screenshots/update_department.png" alt="Update Department" width="220"/></td>
+    <td><img src="assets/screenshots/view_department.png" alt="View Department" width="220"/></td>
+    <td><img src="assets/screenshots/delete_department.png" alt="Delete Department" width="220"/></td>
   </tr>
 </table>
+
+
 
 
 ## 🚀 Key Features  
