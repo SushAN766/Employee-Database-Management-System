@@ -7,7 +7,6 @@ The **Employee Database Management System** is a Java-based application designed
   <h3>
     Login & Dashboard 
   </h3>
-  ## 🖼️ Screenshots Collage (1 × 2)
 
 
   <tr>
