@@ -2,7 +2,7 @@
 
 The **Employee Database Management System** is a Java-based application designed to efficiently manage employee records. It supports key operations like adding, updating, deleting, and retrieving employee information. The system integrates with a MySQL database for storing data, and the user interface is built using **Swing**.
 
-## 🖼️ Screenshots 
+##  Screenshots 
 <table>
   <h3>
     Login & Dashboard 
@@ -40,30 +40,30 @@ The **Employee Database Management System** is a Java-based application designed
 
 
 
-## 🚀 Key Features  
+##  Key Features  
 - **Add Employees**: Store employee details such as Name, Employee ID, Department, and Salary.
 - **Update Records**: Modify existing employee data when needed.
 - **Delete Employees**: Remove employee records from the system.
 - **View Employee Data**: Display a list of all employees in a well-organized format.
 - **Search Functionality**: Find employees by their Employee ID or Name.
 
-## 🛠️ Technologies Used  
+##  Technologies Used  
 - **Programming Language**: Java  
 - **Database**: MySQL  
 - **GUI Framework**: Swing  
 - **IDE**: IntelliJ IDEA / Eclipse / NetBeans  
 
-## 📂 Project Directory Structure  
+##  Project Directory Structure  
 The project is organized into logical components to maintain a clear structure. 
 
-## 🎯 Prerequisites  
+##  Prerequisites  
 Before running the project, make sure the following software is installed:  
 - **Java JDK** (Version 8 or above)  
 - **MySQL Database Server**  
 - **JDBC Driver for MySQL**  
 - **IDE** (IntelliJ, Eclipse, NetBeans, etc.)
 
-## 🔧 Setup & Installation  
+##  Setup & Installation  
 Follow these steps to get the project up and running:
 
 1. **Clone the Repository**  
@@ -86,7 +86,7 @@ Follow these steps to get the project up and running:
    git checkout -b feature-new
    ```
 
-## 📌 Use Cases
+##  Use Cases
 
 - HR departments to maintain and update employee records.
 - Small businesses looking for a lightweight desktop-based employee manager.
@@ -94,7 +94,7 @@ Follow these steps to get the project up and running:
 
 
    
-## ✅ Future Enhancements
+##  Future Enhancements
 
 - Add role-based access (Admin, HR, Viewer).
 - Export employee data to Excel or PDF.
@@ -102,7 +102,7 @@ Follow these steps to get the project up and running:
 - Add validations and error-handling mechanisms.
 - Migrate to a web-based interface using Spring Boot + React.
 
-## 🙋‍♂️ Contributing
+##  Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
