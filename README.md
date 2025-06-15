@@ -1,4 +1,4 @@
-# Employee Database Management System
+# Employee Data Management Portal
 
 The **Employee Database Management System** is a Java-based application designed to efficiently manage employee records. It supports key operations like adding, updating, deleting, and retrieving employee information. The system integrates with a MySQL database for storing data, and the user interface is built using **Swing**.
 
